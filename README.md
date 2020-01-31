@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hola a todos.
+
+Estos sin mis primeros pasos en GitHub. Estoy practicando Python ...
